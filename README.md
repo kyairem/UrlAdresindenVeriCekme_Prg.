@@ -5,5 +5,5 @@ Istenilen Url adresine göre ilgili sayfaya bağlanarak o sayfadaki film isimler
 
 
 Ubuntu için kullanılmak istenirse moduller bu şekilde yüklenebilir;
-sudo apt-get install python3-pip
+sudo apt-get install python3-pip,
 pip3 install bs4
